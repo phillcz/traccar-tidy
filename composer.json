@@ -1,0 +1,15 @@
+{
+    "name": "phill/traccar-tidy",
+    "description": "Erase useless db entries",
+    "type": "project",
+    "require": {
+        "dibi/dibi": "^3.0"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "phill",
+            "email": "phill@janevim.cz"
+        }
+    ]
+}
