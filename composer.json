@@ -3,7 +3,9 @@
     "description": "Erase useless db entries",
     "type": "project",
     "require": {
-        "dibi/dibi": "^3.0"
+        "dibi/dibi": "^3.0",
+        "willdurand/geocoder": "^3.3",
+        "php-http/guzzle6-adapter": "^1.1"
     },
     "license": "GPL",
     "authors": [

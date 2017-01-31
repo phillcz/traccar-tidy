@@ -7,3 +7,6 @@ $db = [
     'password' => 'xxx',
     'database' => 'traccar',
 ];
+
+$googleApiKey='xxx';
+
